@@ -2,6 +2,9 @@ body{
   overflow: hidden;
   margin:0;
 }
+header a{
+  color:#fff;
+}
 canvas{
   position: absolute;
   top: 0;
